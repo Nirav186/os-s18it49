@@ -211,3 +211,35 @@ pico script5.sh
 pico script3.sh
 pico script4.sh
 pico script5.sh
+git add.
+git status
+git log
+git add .
+git log
+git status
+git log
+git remote add origin https://github.com/Nirav186/os-s18it49.git
+git push -u origin master
+ping google.com
+git commit -m "My first commit"
+git config --global user.name "Nirav"
+git config --global user.email "nrvrangapariya186@gmail.com"
+git config --list
+git add .
+git status
+git commit -m "My first commit"
+git status
+git log
+git log --oneline
+git remote add origin https://github.com/Nirav186/os-s18it49.git
+git push -u origin master
+pico script6.sh
+git push -u origin master
+pico script6.sh
+sh script6.sh
+pico script6.sh
+sh script6.sh
+pico script6.sh
+sh script6.sh
+pico script6.sh
+sh script6.sh
